@@ -31,7 +31,7 @@ Originally, we wanted to implement as many options as possible, thinking that do
 
 <h3>Conclusion</h3>
 
-In conclusion, this prototype is a mere idea which would require much more work to achieve fruition. And yet, we hope that our idea will potentially some day allow students like us to effectively maintain and strengthen their relationships by connecting in truly meaningful ways. After all, this solution does have advantages over the current state of affairs as it simplifies the two hardest steps to any meetup: initiating a meetup and solidifying meetup details.
+In conclusion, this prototype is a mere idea which would require much more work to achieve fruition. And yet, we hope that our idea will potentially someday allow students like us to effectively maintain and strengthen their relationships by connecting in truly meaningful ways. After all, this solution does have advantages over the current state of affairs as it simplifies the two hardest steps to any meetup: initiating a meetup and solidifying meetup details.
 
 
 If you've gotten this far, I thank you for your time! I hope you learned something new and useful! :)
